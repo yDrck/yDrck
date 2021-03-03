@@ -20,4 +20,4 @@ Want text me? 👇 👇
  - linkedin.com/in/rodrigotalman
  
 
-![alt text](https://www.oficinadanet.com.br/imagens/post/25092/cc01.jpg)
+      ![alt text](https://www.oficinadanet.com.br/imagens/post/25092/cc01.jpg)
