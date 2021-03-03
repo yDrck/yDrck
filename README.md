@@ -16,5 +16,5 @@ I love studying new technologies and solving problems. Always open to new challe
 Want text me? 👇 👇
 
  -   [Email Adress](mailto:talman.profissional@gmail.com)
- - [My profile in Linkedin](inkedin.com/in/rodrigotalman)
+ - linkedin.com/in/rodrigotalman
  
