@@ -14,10 +14,5 @@ I love studying new technologies and solving problems. Always open to new challe
  -  In search of an internship
  
 
-Want text me? 👇 👇
-
- -   [Email Adress](mailto:talman.profissional@gmail.com)
- - linkedin.com/in/rodrigotalman
- 
 
       ![alt text](https://www.oficinadanet.com.br/imagens/post/25092/cc01.jpg)
