@@ -8,7 +8,6 @@ My name is Rodrigo Talman Mendes, I'm from Brazil  🇧🇷 I'm a student of Ana
 I love studying new technologies and solving problems. Always open to new challenges and changes.
 
 #### Abstract 
-- Future Java developer ☕
  - Living in Osasco - SP
  - Student of Analysis and Systems Development 
  - Interests: Java, Spring Boot, Html, Css, JavaScript
