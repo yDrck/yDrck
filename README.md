@@ -15,7 +15,7 @@ I love studying new technologies and solving problems. Always open to new challe
  -  In search of an internship
 
 
-<a href="https://www.linkedin.com/in/rodrigotalman/"><img src="https://github.com/yDrck/yDrck/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/rodrigotalman)  
+<a href="https://www.linkedin.com/in/rodrigotalman/"><img src="https://user-images.githubusercontent.com/69361027/110225866-3accee80-7ec8-11eb-8e40-8e3c8e36e95e.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/rodrigotalman)  
 
 <center>
 <table>
@@ -26,6 +26,7 @@ I love studying new technologies and solving problems. Always open to new challe
 </table>
 </center>  
  
+
 
 
      
