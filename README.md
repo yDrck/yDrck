@@ -13,6 +13,15 @@ I love studying new technologies and solving problems. Always open to new challe
  - Student of Analysis and Systems Development 
  - Interests: Java, Spring Boot, Html, Css, JavaScript
  -  In search of an internship
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDrck&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=yDrck&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
  
 
 
