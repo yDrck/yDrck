@@ -14,6 +14,9 @@ I love studying new technologies and solving problems. Always open to new challe
  - Interests: Java, Spring Boot, Html, Css, JavaScript
  -  In search of an internship
 
+
+<a href="https://www.linkedin.com/in/rodrigotalman/"><img src="https://github.com/yDrck/yDrck/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/rodrigotalman)  
+
 <center>
 <table>
     <tr>
