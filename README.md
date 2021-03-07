@@ -10,7 +10,7 @@ I love studying new technologies and solving problems. Always open to new challe
 #### Abstract 
  - Living in Osasco - SP
  - Student of Analysis and Systems Development 
- - Interests: Java/Spring Boot/JPA/Html/Css/JavaScript
+ - Interests: Java/Spring Boot/JPA/Hibernate/Html/Css/JavaScript
  -  In search of an internship
 
 
